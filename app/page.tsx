@@ -2,6 +2,8 @@ import Banner from "./components/Banner";
 import Carousel from "./components/Carousel";
 import Faq from "./components/Faq";
 import ForHome from "./components/ForHome";
+import PromotionalBanner from "./components/PromotionalBanner";
+
 import Services from "./components/Services";
 
 export default function Home() {
@@ -10,6 +12,7 @@ export default function Home() {
       <Carousel />
       <Services />
       <ForHome />
+      <PromotionalBanner/>
       <Faq />
       <Banner />
     </>
