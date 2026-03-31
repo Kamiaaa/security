@@ -17,7 +17,7 @@ const PromotionalBanner = () => {
                 {!isPlaying ? (
                     <>
                         {/* Heading */}
-                        <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-white max-w-2xl z-10">
+                        <h2 className="text-2xl sm:text-3xl md:text-6xl font-bold text-white max-w-6xl z-10">
                             Need Fast & Secure Broadband? Use Orange Communication & The Real Network.
                         </h2>
                         {/* Two Buttons */}
